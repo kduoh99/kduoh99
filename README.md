@@ -6,7 +6,7 @@
   <br>I'm studying to become a backend developer.
 
   <br>
-  ![Du's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&show_icons=true&theme=radical)
+  ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99)](https://solved.ac/kduoh99/)
 
   <br><h2 style=text-decoration: none>:baby_chick:&nbsp;Studying</h2>
