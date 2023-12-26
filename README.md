@@ -26,7 +26,9 @@
   <a href="https://blog.naver.com/regretduo" target="_blank">![Naver](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
  
   <br><h2>⭐:&nbsp;GitHub stats</h2>  
-  
+  ![](https://raw.githubusercontent.com/kduoh99/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
   ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&repo=Baekjoon&count_private=true&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kduoh99&layout=compact&theme=tokyonight)
 </div>
