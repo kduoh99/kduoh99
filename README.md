@@ -28,10 +28,5 @@
   <br><h2>⭐:&nbsp;GitHub stats</h2>  
   
   ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&repo=Baekjoon&count_private=true&show_icons=true&theme=dark)
-
-  
-  ![Duoh's GitHub stats](https://baekjoon-kang-duohs-projects.vercel.app)
-
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kduoh99&layout=compact&theme=tokyonight)
 </div>
