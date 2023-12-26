@@ -26,7 +26,8 @@
   <a href="https://blog.naver.com/regretduo" target="_blank">![Naver](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
 
   <br>  
-  <br>  
+  <br><h2>⭐:&nbsp;Contact</h2>  
   
-  ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&show_icons=true&theme=radical)
+  ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kduoh99&layout=compact&theme=tokyonight)
 </div>
