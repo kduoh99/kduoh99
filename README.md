@@ -24,9 +24,8 @@
     
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kduoh99@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://blog.naver.com/regretduo" target="_blank">![Naver](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
-
-  <br>  
-  <br><h2>⭐:&nbsp;Contact</h2>  
+ 
+  <br><h2>⭐:&nbsp;GitHub stats</h2>  
   
   ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kduoh99&layout=compact&theme=tokyonight)
