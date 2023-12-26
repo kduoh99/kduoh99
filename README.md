@@ -5,6 +5,9 @@
   :clap:&nbsp;Welcome my GitHub Profile.
   <br>I'm studying to become a backend developer.
 
+  ![Duoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kduoh99&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99)](https://solved.ac/kduoh99/)
+
   <br><h2 style=text-decoration: none>:baby_chick:&nbsp;Studying</h2>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
