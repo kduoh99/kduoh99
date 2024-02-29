@@ -5,7 +5,7 @@
   :clap:&nbsp;Welcome my GitHub Profile.
   <br>I'm studying to become a backend developer.
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99)](https://solved.ac/kduoh99/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99">
 
   <br><h2 style=text-decoration: none>:baby_chick:&nbsp;Studying</h2>
   
