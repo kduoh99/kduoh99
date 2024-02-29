@@ -5,6 +5,9 @@
   :clap:&nbsp;Welcome my GitHub Profile.
   <br>I'm studying to become a backend developer.
 
+  <br><h2>:trophy:&nbsp;Ranking</h2>
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99)](https://solved.ac/kduoh99/)
+
   <br><h2 style=text-decoration: none>:baby_chick:&nbsp;Studying</h2>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,5 +28,4 @@
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kduoh99@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://blog.naver.com/regretduo" target="_blank">![Naver](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99)](https://solved.ac/kduoh99/)
 </div>
