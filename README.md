@@ -1,8 +1,6 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
-
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99">
   
   :clap:&nbsp;Welcome my GitHub Profile.
   <br>I'm studying to become a backend developer.
@@ -26,4 +24,6 @@
     
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kduoh99@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://blog.naver.com/regretduo" target="_blank">![Naver](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99)](https://solved.ac/kduoh99/)
 </div>
