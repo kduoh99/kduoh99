@@ -1,11 +1,12 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
-  
+
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99">
   :clap:&nbsp;Welcome my GitHub Profile.
   <br>I'm studying to become a backend developer.
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99">
+
 
   <br><h2 style=text-decoration: none>:baby_chick:&nbsp;Studying</h2>
   
