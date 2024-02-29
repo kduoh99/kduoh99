@@ -3,8 +3,8 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
 
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kduoh99">
-  :clap:&nbsp;Welcome my GitHub Profile.
-  <br>I'm studying to become a backend developer.
+  <div aling='left' :clap:&nbsp;Welcome my GitHub Profile.
+  <br>I'm studying to become a backend developer.>
 
 
 
