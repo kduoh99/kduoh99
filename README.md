@@ -7,7 +7,7 @@
 
 <div align="center">
 	<h3>📚 Tech Stack 🛠️</h3>
-	<img src="https://skillicons.dev/icons?i=js,vue,java,spring,mysql,redis,rabbitmq,kafka,docker,kubernetes,nginx,aws&perline=6" />
+	<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,elasticsearch,docker,kubernetes,nginx,aws,js,vue&perline=6" />
 </div>
 
 <br>
