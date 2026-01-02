@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  	<br>👋 Hi, I'm Duoh!
+  	<br>I'm studying to become a backend developer. 🚀
+</div>
 
-<!--
-**kduoh99/kduoh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+	<h3>📚 Tech Stack 🛠️</h3>
+	<img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,redis,nginx,docker,aws,js,vue&perline=5" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+	<h3>🌱 Blog & Stats ⭐️</h3>
+  	<a href="https://blog.naver.com/regretduo">
+    	<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white" />
+  	</a>
+  	<a href="https://solved.ac/kduoh99">
+    	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kduoh99" alt="Solved.ac 프로필" />
+  	</a>
+</div>
